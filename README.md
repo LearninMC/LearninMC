@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/97624968/158090325-ec9c0c39-6019-4615-a888-227e9a5f8dc0.png)
+![image](https://user-images.githubusercontent.com/97624968/158090406-4a33e75a-17ca-4755-8eb4-8b28c0fa06f6.png)
 
 ![KakaoTalk_20220314_020647202](https://user-images.githubusercontent.com/97624968/158070830-576ae641-3d9d-4c7d-90ab-474e18d35992.gif)
 
