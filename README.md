@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/97624968/158090406-4a33e75a-17ca-4755-8eb4-8b28c0fa06f6.png)
 
-![KakaoTalk_20220314_020647202](https://user-images.githubusercontent.com/97624968/158070830-576ae641-3d9d-4c7d-90ab-474e18d35992.gif)
+
+
+
 
 🌱 I’m currently learning backend course and AI  
 😄 My notion page : https://grizzly-airship-037.notion.site/Fred-caa8c18b0f7241f5a81a9de9d17638ed
 
-
+## Tech Stacks  
+![techstack-removebg-preview](https://user-images.githubusercontent.com/97624968/158091177-defc574b-df80-4b2a-86a8-d3190d53051c.png)
+![KakaoTalk_20220314_020647202](https://user-images.githubusercontent.com/97624968/158070830-576ae641-3d9d-4c7d-90ab-474e18d35992.gif)
 <!--
 
 **LearninMC/LearninMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
