@@ -5,7 +5,7 @@
 
 
 
-🌱 I’m currently learning backend course and AI  
+🌱 I’m currently learning backend and AI course  
 😄 My notion page : https://grizzly-airship-037.notion.site/Fred-caa8c18b0f7241f5a81a9de9d17638ed
 
 ## Tech Stacks  
