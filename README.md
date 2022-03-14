@@ -9,7 +9,7 @@
 😄 My notion page : https://grizzly-airship-037.notion.site/Fred-caa8c18b0f7241f5a81a9de9d17638ed
 
 ## Tech Stacks  
-![techstack-removebg-preview](https://user-images.githubusercontent.com/97624968/158091177-defc574b-df80-4b2a-86a8-d3190d53051c.png)
+![techstack](https://user-images.githubusercontent.com/97624968/158125676-95ea72ad-f705-4f4d-8949-807e51c199fb.PNG)
 ![KakaoTalk_20220314_020647202](https://user-images.githubusercontent.com/97624968/158070830-576ae641-3d9d-4c7d-90ab-474e18d35992.gif)
 <!--
 
