@@ -11,7 +11,7 @@
 ## Tech Stacks  
 ![techstack](https://user-images.githubusercontent.com/97624968/158125676-95ea72ad-f705-4f4d-8949-807e51c199fb.PNG)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongkyukim&langs_count=10&layout=compact&theme=dark)](https://github.com/LearninMC/LearninMC)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LearninMC&langs_count=10&layout=compact&theme=dark)](https://github.com/LearninMC/LearninMC)
 
 
 
