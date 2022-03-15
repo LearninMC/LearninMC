@@ -13,9 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LearninMC&langs_count=10&layout=compact&theme=dark)](https://github.com/LearninMC/LearninMC)
 
-
-
-![KakaoTalk_20220314_020647202](https://user-images.githubusercontent.com/97624968/158070830-576ae641-3d9d-4c7d-90ab-474e18d35992.gif)
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLearninMC&count_bg=%2379C83D&title_bg=%23333131&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 
