@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LearninMC&count_private=true&show_icons=true&theme=swift&bg_color=0.1,ffffff,e6e6e6" alt='asdfdds'/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LearninMC&count_private=true&show_icons=true&theme=swift&bg_color=0.1,ffffff,ffffff" alt='asdfdds'/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LearninMC&langs_count=10&layout=compact&theme=swift&bg_color=0.1,ffffff,e6e6e6" alt="asdf"/>
 </p>
 
