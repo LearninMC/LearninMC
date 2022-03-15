@@ -1,14 +1,16 @@
 ### Hi there 👋
 
 
-
-
-
-
 🌱 I’m currently learning backend and AI course  
-😄 My notion page : https://grizzly-airship-037.notion.site/Fred-caa8c18b0f7241f5a81a9de9d17638ed
+😄 My notion page : https://grizzly-airship-037.notion.site/Fred-caa8c18b0f7241f5a81a9de9d17638ed  
 
-## Tech Stacks
+
+</br>
+</br>
+  
+  
+<h2 align="center">🌈Tech stacks🌈 </h2>  
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/97624968/158125676-95ea72ad-f705-4f4d-8949-807e51c199fb.PNG" alt="Sublime's custom image"/>
 </p>
