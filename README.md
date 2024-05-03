@@ -2,7 +2,7 @@
 
 
 🌱 I’m currently learning backend and AI course  
-😄 My notion page : https://grizzly-airship-037.notion.site/Fred-caa8c18b0f7241f5a81a9de9d17638ed  
+😄 My notion page : https://grizzly-airship-037.notion.site/Fred-caa8c18b0f7241f5a81a9de9d17638ed ](https://seongkyukim.notion.site/Fred-caa8c18b0f7241f5a81a9de9d17638ed
 
 
 </br>
